@@ -1,0 +1,20 @@
+{
+  "name": "astound-test-task",
+  "version": "1.0.0",
+  "description": "test task for astound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bazyliev Cyril",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
